@@ -2,6 +2,8 @@
 
 A full-screen terminal countdown timer with ASCII banner display.
 
+<img width="1364" height="486" alt="image" src="https://github.com/user-attachments/assets/417094ca-1e82-4de3-bb9b-61120d2805cf" />
+
 ## Usage
 
 ```bash
